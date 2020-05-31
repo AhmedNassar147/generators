@@ -4,7 +4,8 @@ In the project directory, you can run:
 
 ### `yarn gen`
 
-it will bring up the generators in termnal
+it will bring up the generators in terminal after generation successfully done i
+run another command `yarn prettify` to prettify generated code;
 
 ### `yarn start` (not need to run it)
 
